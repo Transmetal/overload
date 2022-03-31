@@ -1,18 +1,5 @@
 <h1 align="center">📡 DDOS Tool (Layer 7) </h1> 
 <div align="center">
-<img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://svgshare.com/i/ZhY.svg"> <img src="https://img.shields.io/github/forks/7zx/overload?style=social&label=Fork&maxAge=2592000"> <img src="https://img.shields.io/github/stars/7zx/overload?style=social&label=Star&maxAge=2592000"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"> 
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7zx/overload/main/img/logo.png" width="200" height="200">
-</p>
-
-# :computer: Janela Principal
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tanjilk/overload/main/img/imgshow.png">
-</p>
-
-# 🌙 Instalação
 
 
 <h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
@@ -31,7 +18,7 @@
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
+git clone https://github.com/Transmetal/overload
 cd overload/
 pip3 install -r requirements.txt or python -m pip install -r requirements.txt
 ```
@@ -41,7 +28,7 @@ pip3 install -r requirements.txt or python -m pip install -r requirements.txt
 ```
 pkg update
 pkg install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
+git clone https://github.com/Transmetal/overload
 cd overload/
 pip3 install -r requirements.txt
 ```
